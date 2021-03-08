@@ -1,0 +1,2 @@
+module polymorphism_inheritance {
+}
