@@ -11,7 +11,7 @@ added to the price tag as per example (next page). For products imported, the ta
 
 ## Layout
 
-![INTERFACE](https://github.com/kelvimSaidel/polymorphism_inheritance2/blob/9bd701499b58bc443371ed816684e18f8bcc7667/src/assets/polymorphism_inheritance.PNG)
+![INTERFACE](https://github.com/kelvimSaidel/polymorphism_inheritance2/blob/dcbbbe0ffe1c40fd582b3edf23eee0b142aace81/src/assets/Conceptual_data_model.PNG)
 
 
 ## Conceptual data model
